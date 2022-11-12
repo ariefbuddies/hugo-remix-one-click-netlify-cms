@@ -16,13 +16,6 @@ contentDir = "content/english"
 weight = 1
 mark = "EN"
 
-[Languages.fr]
-languageName = "fr"
-languageCode = "fr-fr"
-contentDir = "content/fr"
-weight = 2
-mark = "FR"
-
 
 [taxonomies]
   category= "theme"
