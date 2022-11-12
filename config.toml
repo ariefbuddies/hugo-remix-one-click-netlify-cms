@@ -1,11 +1,11 @@
-baseURL = 'https://roneo.itcouldbewor.se/'
+baseURL = 'https://dreamy-mousse-716062.netlify.app/'
 languageCode = 'en-us'
 defaultContentLanguage = 'en'
 
 
 [params]
-  title = 'Remix, a theme for Hugo fully editable with Netlify CMS'
-  metaDescription = "Hugo + Netlify CMS + One click deploy to Netlify"
+  title = 'BENING ABADI TRANSPORT JOGJA'
+  metaDescription = "SEWA MOBIL JOGJA"
 
 
 # Languages
