@@ -3,7 +3,7 @@ en:
   backgroundTitle: SEWA MOBIL
   portText: SEWA MOBIL JOGJA DAN SEKITARNYA
   theme:
-    - coverImage: /media/00-stairs.jpg
+    - coverImage: https://ayzeapykfq.cloudimg.io/v7/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m14.webp
       cSlug: c1
       name: Lorem ipsum ea voluptate
       description: |
