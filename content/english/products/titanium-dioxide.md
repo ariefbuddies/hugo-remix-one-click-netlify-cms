@@ -3,7 +3,7 @@ nType: product
 title: Free and open-source
 theme:
   - c2
-image: /static/media/titanium-dioxide.jpg
+image: /media/couple-cerf-aquarelle-vanessa-belleperche.jpg
 summary: "1111"
 ---
 
