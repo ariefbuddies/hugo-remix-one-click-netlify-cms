@@ -96,7 +96,7 @@
       }
 
       .right-header {
-        position: absolute;
+        position: flex;
         z-index: 1;
         top: 0;
         left: 0;
@@ -108,7 +108,7 @@
         background-color:  var(--color-primary);
 
         .name {
-          font-size: 4rem;
+          font-size: 1.8rem;
           margin-top: 20vh;
         }
 
