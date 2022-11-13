@@ -1,7 +1,7 @@
 ---
 title: Markdown Crash Test
 date: 2022-05-04T02:12:07.432Z
-image: /media/books_png.png
+image: https://ayzeapykfq.cloudimg.io/v7/beningabaditransport.com/uploads/beat-trail.jpg?func=crop&w=200&h=200&v2
 summary: Let's check the support of Markdown
 ---
 
@@ -486,7 +486,7 @@ In addition to the accessibility benefits, `ALT` is useful for SEO. It's also di
 ![Semantic description](https://roneo.org/img/ok.png "Your title")*Your caption*
 ```
 
-![Semantic description](https://roneo.org/img/ok.png "Your title")*Your caption*
+![Semantic description](https://ayzeapykfq.cloudimg.io/v7/beningabaditransport.com/uploads/beat-trail.jpg?func=crop&w=200&h=200&v2) "Your title")*Your caption*
 
 
 ### Clickable images
