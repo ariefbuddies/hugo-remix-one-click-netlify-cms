@@ -1,8 +1,6 @@
 ---
 nType: product
 title: Sewa Mobil Jogja
-theme:
-  - c1
 image: /static/media/symetry.jpg
 summary: Menyewakan mobil jogja
 ---
