@@ -5,5 +5,13 @@ theme:
   - c1
 summary: Menyewakan mobil jogja ini
 ---
-### Occaecat velit elit consectetur adipisicing. Aute eu id elit minim magna consequat ut. Ut quis cillum excepteur duis reprehenderit magna. Ipsum cillum sint fugiat esse ipsum commodo. Fugiat laborum qui aliqua in. In tempor esse aute sint Lorem. Dolor velit qui anim sunt mollit excepteur ipsum mollit quis.
+# MENU UTAMA!!!
+## ![](https://i.imgur.com/0tRzJ85.jpg) Aika
 
+### 50k/jam
+:100: Perawan ting2 :+1: 
+> [color=#07ef58]
+> [time=Mon, Nov 14, 2022 10:35 AM]
+> 1. Dilarang mabok
+> 2. Jangan main gila
+> 3. Pakai kondom!!!
